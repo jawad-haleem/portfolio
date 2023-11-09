@@ -119,11 +119,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Junior Machine Learning Engineer",
+    title: "Machine Learning Engineer (NLP)",
     company_name: "Kyaas Solutions",
     icon: interns,
     iconBg: "#E6DEDD",
-    date: "June 2023 - Present",
+    date: "Jan 2023 - Present",
     points: [
       "Assist in data collection, cleaning, and preprocessing tasks.",
       "Support feature engineering efforts under senior ML engineers' guidance.",
@@ -134,16 +134,17 @@ const experiences = [
     ],
   },
   {
-    title: "Freelancer",
-    company_name: "Fiverr",
+    title: "Junior Machine Learning Engineer",
+    company_name: "Creative sol",
     icon: upwork,
     iconBg: "#15A800",
-    date: "Feb 2022 - Present",
+    date: "March 2022 - Jan 2023",
     points: [
-      "Delivering projects on Full-Stack Development, utilizing my expertise in the MERN stack, ReactJS/Native, Azure, AI/ML, and Metaverse.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Providing personal tutoring in various technologies such as API's, AI & VR/AR development.",
-      "Maintaining effective communication with clients to ensure their satisfaction and delivering solutions that meet their needs.",
+      "Support data collection, cleaning, and preprocessing tasks.",
+      "Collaborate with senior ML engineers on feature engineering and model development.",
+      "Assist in model testing, evaluation, and results documentation.",
+      "Actively learn and expand ML knowledge through research and hands-on tasks.",
+      "Maintain data pipelines, follow coding standards, and contribute to team meetings with enthusiasm.",
     ],
   },
 

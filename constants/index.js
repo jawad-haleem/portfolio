@@ -153,10 +153,10 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Sharjeel has been nothing short of amazing. He is prepared, proactive, and knowledgeable.",
-    name: "Mitch Schneider",
-    designation: "CEO",
-    company: "Infinium Designs",
+      "Generative AI with Large Language Models",
+    name: "DeepLearning.AI",
+    designation: "",
+    company: "",
     image: mitch,
   },
   {

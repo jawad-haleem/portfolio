@@ -161,16 +161,40 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their client's success as Sharjeel does.",
-    name: "Kevin Dunne",
+      "Python for Data Science and Machine Learning Bootcamp",
+    name: "Udemy",
     designation: "COS",
     company: "Industry Dive",
     image: kevin,
   },
   {
     testimonial:
-      "After Sharjeel revamped & optimized our website, our traffic increased by 50%. Such a good experience!",
-    name: "Coursera.org",
+      "Artificial intelligence (machine learning & deep learning)",
+    name: "NAVTTC",
+    designation: "",
+    company: "",
+    image: tracy,
+  },
+  {
+    testimonial:
+      "Microsoft Certified: Azure AI Fundamentals",
+    name: "Microsoft",
+    designation: "",
+    company: "",
+    image: tracy,
+  },
+  {
+    testimonial:
+      "HCIA-Big Data",
+    name: "Huawei",
+    designation: "",
+    company: "",
+    image: tracy,
+  },
+  {
+    testimonial:
+      "Programming in C++: A Hands-on Introduction Specialization",
+    name: "Coursera",
     designation: "",
     company: "",
     image: tracy,

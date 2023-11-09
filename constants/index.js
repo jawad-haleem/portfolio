@@ -156,8 +156,7 @@ const testimonials = [
       "Generative AI with Large Language Models",
     name: "DeepLearning.AI",
     designation: "",
-    company: "",
-    image: mitch,
+    
   },
   {
     testimonial:

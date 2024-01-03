@@ -155,13 +155,13 @@ const testimonials = [
     testimonial:
       "Impressive AI Project! The algorithms are cutting-edge, delivering precise results. Kudos to the team for innovation and accuracy!",
       // "Generative AI with Large Language Models",
-    name: "ikrama1000@gmail.com",
+    name: "ikrama1000@gmail.com⭐⭐⭐⭐",
     designation: "",
     
   },
   {
     testimonial:
-      "Seamless integration! User-friendly interface makes it accessible to all. Excellent work in pushing the boundaries of technology!"
+      "Seamless integration! User-friendly interface makes it accessible to all. Excellent work in pushing the boundaries of technology!⭐⭐⭐⭐⭐"
       ,// "Python for Data Science and Machine Learning Bootcamp",
     name: "nayabimtiaz123@gmail.com",
     designation: "",
@@ -169,7 +169,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Exceptional AI solution! The model's performance exceeded expectations, showcasing the team's expertise. A game-changer in the field!",
+      "Exceptional AI solution! The model's performance exceeded expectations, showcasing the team's expertise. A game-changer in the field!⭐⭐⭐⭐",
     name: "andrew.smith@gmail.com",
     designation: "",
     company: "",

@@ -51,7 +51,7 @@ const Feedbacks = () => {
       >
         <motion.div variants={textVariant()}>
           
-          <h2 className={styles.sectionHeadText}>Certificates</h2>
+          <h2 className={styles.sectionHeadText}>Reviews </h2>
         </motion.div>
       </div>
       <div

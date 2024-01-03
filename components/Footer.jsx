@@ -23,7 +23,7 @@ function Footer() {
             >
               ❤️
             </span>{" "}
-            By Afnan Qasim.{" "}
+            By Afnan Qasim. afnanqasim74@gmail.com (03457812255){" "}
           </h4>
         </motion.div>
       </div>

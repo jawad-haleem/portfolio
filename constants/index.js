@@ -153,9 +153,9 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Impressive AI Project! The algorithms are cutting-edge, delivering precise results. Kudos to the team for innovation and accuracy!",
+      "Impressive AI Project! The algorithms are cutting-edge, delivering precise results. Kudos to the team for innovation and accuracy!⭐⭐⭐⭐",
       // "Generative AI with Large Language Models",
-    name: "ikrama1000@gmail.com⭐⭐⭐⭐",
+    name: "ikrama1000@gmail.com",
     designation: "",
     
   },

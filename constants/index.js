@@ -153,51 +153,53 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Generative AI with Large Language Models",
-    name: "DeepLearning.AI",
+      "Impressive AI Project! The algorithms are cutting-edge, delivering precise results. Kudos to the team for innovation and accuracy!",
+      // "Generative AI with Large Language Models",
+    name: "ikrama1000@gmail.com",
     designation: "",
     
   },
   {
     testimonial:
-      "Python for Data Science and Machine Learning Bootcamp",
-    name: "Udemy",
-    designation: "COS",
-    company: "Industry Dive",
-    image: kevin,
+      "Seamless integration! User-friendly interface makes it accessible to all. Excellent work in pushing the boundaries of technology!"
+      ,// "Python for Data Science and Machine Learning Bootcamp",
+    name: "nayabimtiaz123@gmail.com",
+    designation: "",
+
   },
   {
     testimonial:
-      "Artificial intelligence (machine learning & deep learning)",
-    name: "NAVTTC",
+      "Exceptional AI solution! The model's performance exceeded expectations, showcasing the team's expertise. A game-changer in the field!",
+    name: "andrew.smith@gmail.com",
     designation: "",
     company: "",
     image: tracy,
-  },
-  {
-    testimonial:
-      "Microsoft Certified: Azure AI Fundamentals",
-    name: "Microsoft",
-    designation: "",
-    company: "",
-    image: tracy,
-  },
-  {
-    testimonial:
-      "HCIA-Big Data",
-    name: "Huawei",
-    designation: "",
-    company: "",
-    image: tracy,
-  },
-  {
-    testimonial:
-      "Programming in C++: A Hands-on Introduction Specialization",
-    name: "Coursera",
-    designation: "",
-    company: "",
-    image: tracy,
-  },
+  }
+  // ,
+  // {
+  //   testimonial:
+  //     "Microsoft Certified: Azure AI Fundamentals",
+  //   name: "Microsoft",
+  //   designation: "",
+  //   company: "",
+  //   image: tracy,
+  // },
+  // {
+  //   testimonial:
+  //     "HCIA-Big Data",
+  //   name: "Huawei",
+  //   designation: "",
+  //   company: "",
+  //   image: tracy,
+  // },
+  // {
+  //   testimonial:
+  //     "Programming in C++: A Hands-on Introduction Specialization",
+  //   name: "Coursera",
+  //   designation: "",
+  //   company: "",
+  //   image: tracy,
+  // },
 
 ];
 

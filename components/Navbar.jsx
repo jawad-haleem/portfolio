@@ -223,7 +223,7 @@ const Navbar = () => {
             className="w-12 h-12 object-contain cursor-pointer"
           />
           <p className="hover:text-secondary ease-in-out duration-200 text-white text-[18px] font-bold cursor-pointer flex">
-            Afnan&nbsp; <span className="sm:block hidden">Qasim</span>
+            Jawad&nbsp; <span className="sm:block hidden">Haleem</span>
           </p>
         </Link>
 

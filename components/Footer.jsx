@@ -23,7 +23,7 @@ function Footer() {
             >
               ❤️
             </span>{" "}
-            By Afnan Qasim. afnanqasim74@gmail.com (03457812255){" "}
+            By Jawad Haleem. jawadhaleem44@gmail.com (03244830348){" "}
           </h4>
         </motion.div>
       </div>
@@ -36,11 +36,11 @@ function Footer() {
           className="text-center md:text-[14px] sm:text-[12px] xs:text-[10px] 
           text-[8px] text-slate-400 pt-8 pb-8"
         >
-          © 2022 - Present afnan qasim. All Rights Reserved.
+          © 2024 - Present jawad haleem. All Rights Reserved.
         </div>
         <div className="flex justify-end mt-[-15px] mr-12 pb-5">
           <a
-            href="https://www.linkedin.com/in/afnanqasim74/"
+            href="https://www.linkedin.com/in/jawad-haleem"
             target="_blank"
             rel="noopener noreferrer"
             className="icon-link rounded-full p-2 hover:bg-secondary transition 
@@ -49,7 +49,7 @@ function Footer() {
             <FaLinkedin size={28} />
           </a>
           <a
-            href="mailto:afnanqasim74@gmail.com"
+            href="mailto:jawadhaleem44@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
             className="icon-link rounded-full p-2 hover:bg-secondary transition
@@ -58,7 +58,7 @@ function Footer() {
             <FaEnvelope size={28} />
           </a>
           <a
-            href="https://github.com/afnanqasim74"
+            href="https://github.com/jawad-haleem"
             target="_blank"
             rel="noopener noreferrer"
             className="icon-link rounded-full p-2 hover:bg-secondary transition

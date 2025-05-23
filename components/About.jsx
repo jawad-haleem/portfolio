@@ -59,12 +59,12 @@ const About = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-5 mb-12 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-        As an experienced Machine Learning (NLP) Engineer with a Bachelor's
-        in Computational Physics and expertise in Python, NLP, and machine learning 
-        libraries like TensorFlow and PyTorch, With a track record of successfully 
-        implementing chatbots and emotion classifiers, and a passion for staying updated with the latest ML techniques,
-        I am confident in contributing to ASLASE's cutting-edge projects and driving innovation in the field of NLP. 
-        Let's collaborate to unlock the true potential of data through the art of machine learning!
+          As a dedicated AI Engineer with a Bachelor's in Electrical Engineering specializing in Computer Engineering,
+           Embedded Systems, and Machine Learning, I bring expertise in Python, NLP, RAG systems, and LLM agents including 
+           LangGraph. With a proven track record of developing innovative solutions like RAG-based chatbots, 
+           submittal extraction pipelines, and stock recommendation systems, plus recognition as the 1st place winner in an 
+           Advanced AI Bootcamp focusing on LLMs, I am passionate about leveraging cutting-edge AI technologies to solve complex business challenges. 
+           Let's collaborate to transform data into intelligent solutions that drive innovation and create meaningful impact!
         </motion.p>
 
         <div

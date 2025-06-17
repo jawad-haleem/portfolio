@@ -12,7 +12,7 @@ import {
   nodejs,
   expressjs,
   mongodb,
-  interns,
+  preesoft,
   upwork,
   nextalgo,
   weathersnap,
@@ -121,7 +121,7 @@ const experiences = [
   {
     title: " AI Engineer",
     company_name: "Preesoft Pvt Ltd.",
-    icon: interns,
+    icon: preesoft,
     iconBg: "#E6DEDD",
     date: "Nov-2024 - Present",
     points: [

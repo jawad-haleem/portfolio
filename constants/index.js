@@ -119,16 +119,17 @@ const technologies = [
 
 const experiences = [
   {
-    title: "AI Engineer",
-    company_name: "Preesoft Pvt Ltd.",
+    title: "Machine Learning Engineer (NLP)",
+    company_name: "Kyaas Solutions",
     icon: interns,
     iconBg: "#E6DEDD",
-    date: "Nov 2024 - Present",
+    date: "Jan 2023 - Present",
     points: [
-      "Developed AI-powered business solutions to automate tasks, significantly reducing manual effort and operational costs.",
-      "Developed production-ready AI applications, including chatbots, voice agents, submittal extractors, and document/RFI generators.",
-      "Collaborated cross-functionally with product, engineering, and operations teams to deliver AI solutions aligned with business goals.",
-      "Proactively learned and utilized cutting-edge frameworks such as Google Agent Development Kit (ADK) and LangGraph.",
+      "Assist in data collection, cleaning, and preprocessing tasks.",
+      "Support feature engineering efforts under senior ML engineers' guidance.",
+      "Develop and implement machine learning models following established guidelines.",
+      "Collaborate with the ML team for model testing and evaluation.",
+      "Learn actively, conduct research on ML techniques, and contribute to ML projects with a proactive and enthusiastic attitude.",
       
     ],
   },

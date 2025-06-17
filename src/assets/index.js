@@ -20,7 +20,7 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import interns from "./company/interns.png";
+import interns from "./company/preesoft.png";
 import upwork from "./company/upwork.png";
 import nextalgo from "./company/nextalgo.png";
 
@@ -54,7 +54,7 @@ export {
   tailwind,
   typescript,
   threejs,
-  interns,
+  preesoft,
   upwork,
   nextalgo,
   weathersnap,

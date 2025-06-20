@@ -204,12 +204,12 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Chatbot-transformers",
+    name: "Customized-Chatbot",
     description:
-      "Successfully implemented a chatbot using Google Flan-T5 transformer.Preprocessed the first text before calling the Hugging Face embedding.Created a knowledge base using the preprocessed documents and embeddings.Deployed the knowledge base using Streamlit after saving it in .pkl Utilized the model and knowledge base to predict answers for user queries.",
+      "Successfully implemented an intelligent chatbot using LangGraph, streamlining the company’s demo booking process and reducing manual workload. The bot autonomously schedules demos by checking available slots on Google Calendar and responds to client queries using contextual information from internal documentation and company blogs. Built with LangGraph, the solution leverages low-level control over conversational flow, enabling a modern and efficient approach to chatbot development.",
     tags: [
       {
-        name: "ML ",
+        name: "RAG ",
         color: "blue-text-gradient",
       },
       {
@@ -221,19 +221,23 @@ const projects = [
         color: "pink-text-gradient",
       },
       {
-        name: "GoogleFlanT5",
+        name: "LangGraph",
         color: "blue-text-gradient",
       },
       {
-        name: "HuggingFace ",
+        name: "LangChain ",
         color: "green-text-gradient",
       },
       {
-        name: "Streamlit",
+        name: "LLM orchestration ",
         color: "pink-text-gradient",
       },
       {
-        name: "Deployment",
+        name: "AI Automation ",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Multi-Agent AI ",
         color: "green-text-gradient",
       },
     ],
@@ -241,32 +245,32 @@ const projects = [
     source_code_link: "https://github.com/afnanqasim74/huggingface-chatbot",
   },
   {
-    name: "Linear Vision",
+    name: "LaTeX to Python Conversion",
     description:
-      "Web application that enables users with the power of DALL-E 2's API integration & an image editor resulting in a sleek and minimalist user interface to edit your images creatively.",
+      "Achieved the highest accuracy of 98.3% in Kaggle competition. Fine-tuned code T5 for converting LaTeX mathematical expressions to Python code by leveraging and fine-tuning the T5 model across all teams.",
     tags: [
       {
-        name: "ML ",
+        name: "NLP ",
         color: "blue-text-gradient",
       },
       {
-        name: "NLP",
+        name: "Synthetic data generation",
         color: "green-text-gradient",
       },
       {
-        name: "Chatbot ",
+        name: "Fine-Tune ",
         color: "pink-text-gradient",
       },
       {
-        name: "GoogleFlanT5",
+        name: "Code T5",
         color: "blue-text-gradient",
       },
       {
-        name: "HuggingFace ",
+        name: "Data Analysis ",
         color: "green-text-gradient",
       },
       {
-        name: "Streamlit",
+        name: "Code-Generation",
         color: "pink-text-gradient",
       },
       {

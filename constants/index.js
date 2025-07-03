@@ -242,7 +242,7 @@ const projects = [
       },
     ],
     image: weathersnap,
-    source_code_link: "https://github.com/afnanqasim74/huggingface-chatbot",
+    source_code_link: "https://github.com/jawad-haleem",
   },
   {
     name: "LaTeX to Python Conversion",
@@ -281,29 +281,33 @@ const projects = [
       
     ],
     image: linearvision,
-    source_code_link: "https://github.com/Sharjeel-Riaz/Linear-Vision",
+    source_code_link: "https://github.com/jawad-haleem",
     
   },
   {
-    name: "Hair Day",
+    name: " Supercomputer as a Service",
     description:
-      "An all-inclusive salon experience platform that empowers users to book a wide range of haircare and beauty services, and provides personalized recommendations for their unique needs.",
+      "Developed a Super Computer as a Service (SCaaS) platform utilizing MPICH for distributed computing. The system comprised a 4-node Raspberry Pi cluster configured in a master-slave architecture with one master node and three slave nodes. Implemented parallel computing algorithms including matrix multiplication and image low-pass filtering. Integrated DevOps practices to optimize HPC cluster performance and operational efficiency.",
     tags: [
       {
-        name: "html",
+        name: "MongoDB",
         color: "blue-text-gradient",
       },
       {
-        name: "css",
+        name: "Raspbian",
         color: "green-text-gradient",
       },
       {
-        name: "javascript",
+        name: "MPICH",
         color: "pink-text-gradient",
+      },
+      {
+        name: "Cluster",
+        color: "green-text-",
       },
     ],
     image: hairday,
-    source_code_link: "https://github.com/Sharjeel-Riaz/Hair-Day-Website",
+    source_code_link: "https://github.com/jawad-haleem",
   
   },
 ];
